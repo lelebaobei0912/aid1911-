@@ -21,3 +21,4 @@ cur=db.cursor()
 cur.close()
 db.close()
 
+##操作数据库
